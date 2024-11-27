@@ -44,5 +44,13 @@ O objetivo deste projeto é demonstrar a configuração de um ambiente escaláve
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd sistema_escalavel_flask
+```
+### 3. Iniciar o Sistema
+
+- Execute o comando abaixo para iniciar os containers e os serviços:
+
+```bash
+docker-compose up --build
+```
 
 
